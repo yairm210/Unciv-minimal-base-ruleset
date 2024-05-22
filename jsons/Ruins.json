@@ -1,0 +1,8 @@
+[
+    {
+        "name": "discover cultural artifacts",
+        "notification": "We have discovered cultural artifacts in the ruins! (+20 culture)",
+        "uniques": ["Gain [20] [Culture]"],
+        "color": "#cf8ff7"
+    }
+]

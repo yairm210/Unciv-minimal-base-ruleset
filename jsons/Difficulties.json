@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Warlord",
+		"baseHappiness": 12,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 0.85,
+		"unitSupplyBase": 7,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 0.85,
+		"policyCostModifier": 0.85,
+		"unhappinessModifier": 0.75,
+		"barbarianBonus": 0.4,
+		"barbarianSpawnDelay": 3,
+		"playerBonusStartingUnits": ["Settler"],
+		"aiCityGrowthModifier": 1.1,
+		"aiUnitCostModifier": 1.1,
+		"aiBuildingCostModifier": 1.1,
+		"aiWonderCostModifier": 1.1,
+		"aiBuildingMaintenanceModifier": 1,
+		"aiUnitMaintenanceModifier": 1,
+		"aiUnitSupplyModifier": 0.1,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 1,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 20,
+		"clearBarbarianCampReward": 30
+	}
+]
