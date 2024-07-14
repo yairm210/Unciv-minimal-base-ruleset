@@ -14,7 +14,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [142,22,0],
 		"uniqueName": "Word of Nod",
-		"uniques": ["+30% Strength when fighting City-State units and cities", "[+2] Movement <for [Armored] units>"],
+		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
@@ -34,7 +34,7 @@
 		"outerColor": [139,0,0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Purification",
-		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>"],
+		"uniques": ["No damage penalty for wounded units <for [non-air] units>"],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	}
